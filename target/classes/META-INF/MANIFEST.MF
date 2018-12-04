@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Formação Spring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pedro Silva
+Implementation-Vendor-Id: com.pbsilva
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringLearninc
+Created-By: Maven Integration for Eclipse
+
